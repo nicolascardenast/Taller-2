@@ -1,3 +1,3 @@
 print("primer archivo")
 
-print("primer cambio por Haider, con rule")
+print("primer cambio por Haider, con regla")
